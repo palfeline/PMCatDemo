@@ -1,0 +1,7 @@
+git remote add xxxx    //为上游项目添加名称
+git pull xxxx master   //拿到上游的最新代码
+git checkout -b        //创建分支
+git add . && git commit //提交代码
+git pull xxxx master   //获取最新代码
+git checkout && git rebase master //变基
+git push origin branch //提交代码
